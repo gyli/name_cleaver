@@ -10,7 +10,6 @@ setup(
     name='name-cleaver',
     version='0.6.0',
     description='A fork of name-cleaver, with family name support.',
-    long_description=readme,
     author='Alison Rowland',
     author_email='arowland@sunlightfoundation.com',
     url='http://github.com/ligyxy/name-cleaver/',
